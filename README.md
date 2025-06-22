@@ -1,1 +1,2 @@
 # odin-recipes
+This project is about creating a basic recipe website. This assignment is about practicing my HTML knowledge I gathered so far during the Foundations Course of The Oding Project. By finishing this project, I can demonstrate that I know how to create a basic HTML document, how to navigate the project's folders and files using the terminal, linking files and images, and finally using git commands and git as a whole.
